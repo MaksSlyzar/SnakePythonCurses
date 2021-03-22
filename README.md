@@ -1,5 +1,6 @@
 # SnakePythonCurses
-\n
-#Install commands\n
-pip install keyboard\n
+
+Install commands
+<br>
+pip install keyboar<br>
 pip install windows-curses
