@@ -2,5 +2,5 @@
 
 Install commands
 <br>
-pip install keyboar<br>
-pip install windows-curses
+<b>pip install keyboar</b><br>
+<b>pip install windows-curses</b>
